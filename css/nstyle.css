@@ -1,0 +1,101 @@
+
+        .bgg{
+          background-color: #07294d !important;
+        }
+        .nav-link {
+    color: #fff !important;
+}
+
+.btn-primary-task {
+    background: #dc3545!important;
+    border-color: #dc3545!important;
+    color: #fff;
+    }
+
+    .bg-primary-bg {
+    background-color: #faae2f!important;
+    color: #fff;
+}
+
+.hamburger {
+    background: #ffc107 !important;
+    }
+
+    a:hover {
+    color: #faae2f !important;
+}
+.btn-outline-primary:active, .btn-outline-primary:hover {
+    background-color: #faae2f!important;
+    color: #fff!important;
+    border-color: #faae2f!important;
+}
+
+.btn-outline-primary {
+    background-color: transparent;
+    border-color: #faae2f !important;
+    color: #faae2f !important;
+}
+
+.hover\:primary:hover {
+    background: #FFC600 !important;
+    }
+  
+ .firstcharacter{
+      color: #903;
+      float: left;
+      font-family: Georgia;
+      font-size: 75px;
+      line-height: 60px;
+      padding-top: 4px;
+      padding-right: 8px;
+      padding-left: 3px;
+    }
+
+    a.active, a:active, a:focus, a:hover {
+    outline: none;
+    text-decoration: none;
+    color: #faae2f !important;
+}
+
+    .ec-nav .nav-link {
+    background-color: #07294d !important;
+    padding: 5px;
+}
+
+ .body{
+ overflow-y: scroll;
+ overflow-x: hidden;
+     
+ }
+ 
+ .scroll {
+height:20px;
+width:20px;
+overflow-y: scroll;
+}
+
+.aa {
+    border-top: 3px solid #df9f32 !important;
+}
+
+.logo-default{
+    width:200px !important;
+}
+
+.navbar-brand{
+    width:150px !important;
+}
+
+.scroll{
+    /*position: static !important;*/
+    /*float: none !important;*/
+    height: 400px !important;
+    overflow-y: scroll !important;
+}
+
+.nav-item__has-megamenu .dropdown-menu {
+    border-top: 3px solid #ffc600 !important;
+}
+
+ 
+ 
